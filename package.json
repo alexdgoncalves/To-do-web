@@ -1,0 +1,7 @@
+{
+  "name": "To-do-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alexdgoncalves/To-do-web.git",
+  "license": "MIT"
+}
